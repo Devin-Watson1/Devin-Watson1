@@ -1,6 +1,8 @@
 # <a href="https://www.linkedin.com/in/Devin-Watson1/">Devin Watson</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Driven by a deep passion for cybersecurity, I enjoy exploring real-world challenges through hands-on projects. Whether it’s vulnerability management, threat detection, or improving security operations, my work reflects a commitment to understanding and addressing the evolving threat landscape. Feel free to explore my projects—they showcase the skills and solutions I’ve developed to strengthen and streamline cybersecurity practices.
+
+
 
 
 ## ⚠️ Vulnerability Management Projects
